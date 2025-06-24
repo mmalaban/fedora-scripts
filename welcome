@@ -1,0 +1,3 @@
+echo -e "\e[1;33mTo update, use command \"update-all\"\e[0m"
+sleep 1
+clear

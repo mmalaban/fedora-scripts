@@ -1,0 +1,5 @@
+alias update-all="sudo dnf update -y && flatpak update -y"
+alias ff="fastfetch -c ~/.config/fastfetch/12.jsonc"
+alias la="ls -A"
+alias ll="ls -lA"
+alias clipboard="xclip -selection clipboard"
